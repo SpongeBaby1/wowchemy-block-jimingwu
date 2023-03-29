@@ -6,3 +6,5 @@ module:
     - source: blocks
       target: layouts/partials/blocks/
       includeFiles: '**.scss'
+imports:
+    - path: github.com/SpongeBaby1/wowchemy-block-jimingwu
